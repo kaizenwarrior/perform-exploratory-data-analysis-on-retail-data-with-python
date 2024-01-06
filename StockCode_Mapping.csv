@@ -1,0 +1,25 @@
+StockCode,Description
+StockCode,"0              10002
+1              10080
+3              10120
+4             10123C
+5             10124A
+            ...     
+4786    gift_0001_20
+4788    gift_0001_30
+4789    gift_0001_40
+4790    gift_0001_50
+4791               m
+Name: StockCode, Length: 3958, dtype: object"
+Description,"0              INFLATABLE POLITICAL GLOBE 
+1                 GROOVY CACTUS INFLATABLE
+3                             DOGGY RUBBER
+4                    HEARTS WRAPPING TAPE 
+5              SPOTS ON RED BOOKCOVER TAPE
+                       ...                
+4786    Dotcomgiftshop Gift Voucher £20.00
+4788    Dotcomgiftshop Gift Voucher £30.00
+4789    Dotcomgiftshop Gift Voucher £40.00
+4790    Dotcomgiftshop Gift Voucher £50.00
+4791                                Manual
+Name: Description, Length: 3958, dtype: object"
